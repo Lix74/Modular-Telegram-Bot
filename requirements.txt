@@ -1,0 +1,12 @@
+# Telegram Bot Framework
+python-telegram-bot==20.7
+
+# Dipendenze standard (incluse in Python 3.8+)
+# json - per gestione database JSON
+# os - per operazioni file system
+# logging - per sistema di log
+# datetime - per gestione date e orari
+# typing - per type hints
+# threading - per operazioni asincrone
+
+# Note: Tutte le altre dipendenze sono incluse nella libreria standard di Python
