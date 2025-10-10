@@ -149,8 +149,7 @@ Il sistema genera log dettagliati per monitoraggio e debug:
 4. Push al branch (`git push origin feature/AmazingFeature`)
 5. Apri una Pull Request
 
-### Segnalazione Bug
-Usa la sezione [Issues](https://github.com/tuousername/telegram-bot-editor/issues) per segnalare bug o richiedere nuove funzionalità.
+
 
 ## 📝 Licenza
 
@@ -161,11 +160,6 @@ Questo progetto è distribuito sotto licenza MIT. Vedi il file `LICENSE` per mag
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - Framework Telegram
 - [Telegram Bot API](https://core.telegram.org/bots/api) - API ufficiale Telegram
 
-## 📞 Supporto
-
-- **Documentazione**: [Wiki del progetto](https://github.com/tuousername/telegram-bot-editor/wiki)
-- **Issues**: [GitHub Issues](https://github.com/tuousername/telegram-bot-editor/issues)
-- **Discussioni**: [GitHub Discussions](https://github.com/tuousername/telegram-bot-editor/discussions)
 
 ---
 
